@@ -32,7 +32,6 @@ Here are some of the technologies I work with:
 
 ### 📫 Connect with Me
 
-- **Telegram**: [Check out my bots!]
-- **Email**: [Your Email Here]
+- **Email**: aymanghandi09@gmail.com
 
 Feel free to explore my repositories. If you find something useful, don't forget to star it! ⭐
